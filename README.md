@@ -1,0 +1,1 @@
+This project is a solid applied data science case study. It demonstrates technical skills (Python, pandas, seaborn), business understanding (marketing mix, customer behavior), and storytelling (hypotheses + inferences). With a bit more statistical depth and predictive modeling, it could easily serve as a portfolio centerpiece for interviews in QA, testing, or data science roles.
